@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react & node**
 
-- 📫 How to reach me **chris@ghostly.io**
+- 📫 How to reach me **me@chrisbailey.dev**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/cbbailey/](https://www.linkedin.com/in/cbbailey/)
 
